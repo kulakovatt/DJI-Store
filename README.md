@@ -1,5 +1,5 @@
 # DJI Store
-DJI Store project in PHP with Laravel.
+DJI Store project in PHP with Laravel + AJAX
 
 Implemented:
 - registration with confirmation by mail;
