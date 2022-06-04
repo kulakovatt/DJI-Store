@@ -10,3 +10,8 @@ Implemented:
 - add to favorites
 - search, sorting, filtering by catalog
 - placing an order
+
+Server start:
+"php artisan serve"
+
+URL: http://localhost:8000/
