@@ -19,7 +19,7 @@ class VerifyController extends Controller
         if($input == Session::get('code')[0]){
             return redirect()->route('home');
         }
-        Session::flush();
+//        Session::forget('code');
     }
 
 }
